@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on Wordpress ignited with Bootstrap5 & JS.
+- 🔭 I’m currently working on Wordpress ignited with Bootstrap & JS.
 
 - 💬 Ask me about something interesting.
 
