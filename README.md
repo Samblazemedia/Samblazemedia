@@ -11,4 +11,4 @@
 
 - 📫 How to reach me: sam@blazemedia.co.uk
 
-- ⊹ Fun fact: The Matrix was a documentary.
+- ⊹ Fun fact: The Matrix was a documentary 🤯
