@@ -12,3 +12,5 @@
 - 📫 How to reach me: sam@blazemedia.co.uk
 
 - ⊹ Fun fact: The Matrix was a documentary 🤯
+
+**[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuroid)](https://github.com/Samuroid/github-readme-stats)**
