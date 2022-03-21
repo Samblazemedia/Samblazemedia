@@ -13,4 +13,4 @@
 
 - ⊹ Fun fact: The Matrix was a documentary 🤯
 
-**[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuroid)](https://github.com/Samuroid/github-readme-stats)**
+**[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuroid)](https://github.com/Samuroid)**
